@@ -24,7 +24,7 @@ I'm Sandy, an MEng Aerospace Engineering student at the University of Nottingham
 
 🧰 I've been working on both front-end and back-end web development projects from the Complete 2024 Web Development Bootcamp.
 
-📔 I'm also creating a personal web portfolio which will be available to view publicaly soon!
+📔 I'm also creating a personal web portfolio which will be available to view publicly soon!
 
 ### Connect with me!
 

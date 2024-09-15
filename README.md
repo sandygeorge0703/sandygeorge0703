@@ -4,7 +4,7 @@ I'm Sandy, an MEng Aerospace Engineering student at the University of Nottingham
 
 ### About Me
 
-🏫 About to enter my final year of university to complete a Master's degree in Aerospace Engineering.
+🏫 I'm about to enter my final year of university to complete a Master's degree in Aerospace Engineering.
 
 ✈ From June 2023 to June 2024, I completed a 12-month industrial placement as an Undergraduate Aerospace Engineer.
 

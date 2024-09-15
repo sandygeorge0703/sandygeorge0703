@@ -4,13 +4,13 @@ I'm Sandy, an MEng Aerospace Engineering student at the University of Nottingham
 
 ### About Me
 
-🏫 I'm about to enter my final year of university to complete a Master's degree in Aerospace Engineering.
+🏫 I'm about to enter my final year of university where I will complete a Master's degree in Aerospace Engineering.
 
 ✈ From June 2023 to June 2024, I completed a 12-month industrial placement as an Undergraduate Aerospace Engineer.
 
 🤖 From June 2024 to August 2024, I completed a summer internship as an AI & Machine Learning Engineer Intern through the Space Placements in INdustry scheme, managed by the UK Space Agency and supported by the Satellite Applications Catapult. 
 
-🏎 From July 2024 to August 2024, I had the privelege of participating in the McLaren Racing 60 Scholars programme.
+🏎 From July 2024 to August 2024, I had the privilege of participating in the McLaren Racing 60 Scholars programme.
 
 ### My learning journey
 

@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Sandy, an MEng Aerospace Engineering student at the University of Nottingham!
+I'm Sandy, a Graduate Software Engineer :)
 
 ### About Me
 
-🏫 I'm about to enter my final year of university where I will complete a Master's degree in Aerospace Engineering.
+🏫 I recently graduated from the University of Nottingham with a Master's in Aerospace Engineering in the First Class (with Honours).
 
 ✈ From June 2023 to June 2024, I completed a 12-month industrial placement as an Undergraduate Aerospace Engineer.
 
@@ -14,15 +14,15 @@ I'm Sandy, an MEng Aerospace Engineering student at the University of Nottingham
 
 ### My learning journey
 
-🖥 I recently developed a passion for web development and I am working my way through the 'Complete 2024 Web Development Bootcamp' by Angela Yu.
+🖥 In 2024 I developed a passion for web development and worked my way through the 'Complete 2024 Web Development Bootcamp' by Angela Yu.
 
-📚 I recently earned the Microsoft Certified: Azure AI Fundamentals certification, achieving a score of 885 out of 1000.
+📚 I have also earned both the Microsoft Azure AI Fundamentals and Microsoft Azure Data Fundamentals certifications.
 
 ### Recent Projects
 
 🧠 I created 2 machine learning models for the analysis of geospatial data, including a Support Vector Machine and a Noise Reducing Autoencoder.
 
-🧰 I've been working on both front-end and back-end web development projects from the Complete 2024 Web Development Bootcamp.
+🧰 I've been working on both front-end and back-end web development projects from the Complete 2026 Web Development Bootcamp.
 
 📔 I'm also creating a personal web portfolio which will be available to view publicly soon!
 

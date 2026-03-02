@@ -30,7 +30,7 @@ I'm Sandy, a Graduate Software Engineer :)
 
 📫 You can reach me by email at: sandhrageorge96@gmail.com
 
-🔹 You can find me on LinkedIn at: www.linkedin.com/in/sandhra-george-a5677a251 
+🔹 You can find me on LinkedIn at:[ www.linkedin.com/in/sandhrageorge ](https://www.linkedin.com/in/sandhrageorge/)
 
 
 
